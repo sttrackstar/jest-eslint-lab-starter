@@ -63,7 +63,7 @@ describe('logAction function', () => {
 
   beforeAll(() => {
     jest.useFakeTimers();
-    jest.setSystemTime(new Date("2024-11-27T12:00:00.000Z"));
+    jest.setSystemTime(new Date("2026-05-16T18:00:00.000Z"));
   });
 
   afterAll(() => {
